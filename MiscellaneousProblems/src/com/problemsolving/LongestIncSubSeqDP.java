@@ -1,7 +1,5 @@
-/**
- * 
- */
-package com.problemsolving;
+package src.com.problemsolving;
+
 
 import java.util.ArrayList;
 import java.util.List;
